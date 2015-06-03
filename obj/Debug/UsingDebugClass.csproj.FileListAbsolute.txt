@@ -1,0 +1,6 @@
+C:\Work\Claim\UsingDebugClass\bin\Debug\UsingDebugClass.exe.config
+C:\Work\Claim\UsingDebugClass\obj\Debug\UsingDebugClass.csprojResolveAssemblyReference.cache
+C:\Work\Claim\UsingDebugClass\bin\Debug\UsingDebugClass.exe
+C:\Work\Claim\UsingDebugClass\bin\Debug\UsingDebugClass.pdb
+C:\Work\Claim\UsingDebugClass\obj\Debug\UsingDebugClass.exe
+C:\Work\Claim\UsingDebugClass\obj\Debug\UsingDebugClass.pdb

@@ -1,0 +1,5 @@
+C:\Work\Claim\UsingDebugClass\bin\Release\UsingDebugClass.exe.config
+C:\Work\Claim\UsingDebugClass\bin\Release\UsingDebugClass.exe
+C:\Work\Claim\UsingDebugClass\bin\Release\UsingDebugClass.pdb
+C:\Work\Claim\UsingDebugClass\obj\Release\UsingDebugClass.exe
+C:\Work\Claim\UsingDebugClass\obj\Release\UsingDebugClass.pdb
